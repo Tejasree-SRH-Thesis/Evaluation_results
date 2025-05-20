@@ -6,7 +6,7 @@ This project introduces an automated system for extracting academic metadata fro
 Here, we present the evaluation results of the aforementioned models in terms of accuracy, completeness, and relevance, based on human evaluation. Each model-generated answer was rated on a scale of 1 to 10.
 
 ### Note
-The extracted metadata of PDFs can also be viewed on model basis in `Results_all20files folder`.
+The extracted metadata of PDFs can also be viewed on model basis in `Results_all20files` folder.
 
 ### Acknowledgments
 Special thanks to Professor Binh Vu and SRH Heidelberg for supporting this project.
